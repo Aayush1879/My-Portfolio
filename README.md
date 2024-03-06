@@ -1,2 +1,2 @@
 # My-Portfolio
-Made a simple portfolio to gather the work which i have done over time
+Made a simple Portfolio to gather the work which I have done over time.
